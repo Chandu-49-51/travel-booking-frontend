@@ -1,0 +1,13 @@
+travel-booking-frontend/
+├── src/
+│   ├── components/
+│   │   ├── Home.js
+│   │   ├── SearchFlights.js
+│   │   └── Booking.js
+│   ├── App.js
+│   ├── index.js
+│   └── styles.css
+├── public/
+│   └── index.html
+├── package.json
+└── README.md
